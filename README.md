@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @RimHFD
-- 👀 I’m interested in programming and design 
-- 🌱 I’m currently learning alll languages possible
-- 💞️ I’m looking to collaborate on any interesting project
+- Hi, I’m Rem 
+- I’m interested in programming and design 
+- I’m currently learning Java and Flutter
+- I’m looking to collaborate on any interesting project
+- I'm a designer + Mobile App Devoloper
 
 
 <!---
